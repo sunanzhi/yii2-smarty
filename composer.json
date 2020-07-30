@@ -23,7 +23,7 @@
     ],
     "require": {
         "yiisoft/yii2": "~2.0.0",
-        "kurogame/smarty": "@dev"
+        "kurogame/smarty": "dev-master"
     },
     "require-dev": {
         "yiisoft/yii2-coding-standards": "~2.0",
